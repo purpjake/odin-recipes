@@ -1,2 +1,1 @@
 # odin-recipes
-whats up

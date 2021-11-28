@@ -3,8 +3,8 @@
 
 <p><strong>Skills used in project:</strong></p>
 <ol>
-  <li>HTML</li>
-  <li>Git Basics</li>
-  <li>CSS Basics</li>
+  <li><em>HTML</em></li>
+  <li><em>Git Basics</em></li>
+  <li><em>CSS Basics</em></li>
 </ol>  
   

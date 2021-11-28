@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>hello</title>
-    <meta charset="utf-8">
-  </head>
-  
-  <body>
-    <h1>Project: Recipes</h1>
-  </body>
-</html>  
+<h1><strong>The Odin Project: Project Recipes</strong></h1>

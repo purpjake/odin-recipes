@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Project: Recipes </title>
+    <title></title>
     <meta charset="utf-8">
   </head>
   
